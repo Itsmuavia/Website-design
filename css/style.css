@@ -149,21 +149,19 @@ section {
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
-    width: 40%;
-}
-.logo img{
-    width: 40%;
+    width: 50%;
 }
 .portfoliox{
     font-size: 36px;
     font-weight: 600;
 }
 .navbar a {
-    font-size: 1.7rem;
+    font-size: 2rem;
     color: black;
     margin-left: 4rem;
     transition: .3s;
     font-weight: 700;
+  
 }
 
 .navbar a:hover,
